@@ -1,5 +1,5 @@
 import React from 'react';
-import WebSocketService from './../../Services/socketService';
+import WebSocketService from '../../Services/socket.service';
 import './../../App.css';
 
 class OrderBook extends React.Component {
